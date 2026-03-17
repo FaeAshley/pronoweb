@@ -1,0 +1,8 @@
+.absolute {
+  background-size: cover
+}
+.max-w-7xl,
+.space-y-8 {
+  background-size: contain
+}
+
