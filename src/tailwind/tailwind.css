@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "./theme.css"; 
+@theme { 
+--font-body: "IBM Plex Mono";
+--font-heading: "Space Grotesk";
+--background-color-body: #09090b;
+ }
